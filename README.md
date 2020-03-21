@@ -11,3 +11,12 @@ The goal actually is **NOT** to complete the challenge, but to just having a tim
 - [ ] A chat service (chatter bot :robot:)
 - [ ] Streaming platform (MVP) :computer:
 > *More to add later ...* :sparkles:
+
+
+### Projects' Lab
+
+This section will have things like reactjs animation, Css styling adaptive layouts & grids etc...
+
+Not a project persay, but just sippets and boilerplates.
+
+- [ ] dabbling with framer motion (in ReactJS).
