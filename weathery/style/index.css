@@ -132,7 +132,7 @@ table {
 }
 .lds-ripple div {
   position: absolute;
-  border: 4px solid #fff;
+  border: 4px solid rgb(36, 26, 26);
   opacity: 1;
   border-radius: 50%;
   animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
@@ -185,4 +185,22 @@ table {
   transform: scale(0, 0);
   opacity: 0.2;
   transition: 0s;
+}
+
+/* Global Classes */
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.center__y {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.center__x {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
